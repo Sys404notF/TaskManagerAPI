@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alejandro\\Desktop\\Prueba Tecnica\\TaskManagerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{357CC2F9-87A7-49EF-9560-5F3F5796D5A5}|TaskManagerAPI.csproj|c:\\users\\alejandro\\desktop\\prueba tecnica\\taskmanagerapi\\taskmanagerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{357CC2F9-87A7-49EF-9560-5F3F5796D5A5}|TaskManagerAPI.csproj|solutionrelative:taskmanagerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManagerAPI.http",
+              "DocumentMoniker": "C:\\Users\\Alejandro\\Desktop\\Prueba Tecnica\\TaskManagerAPI\\TaskManagerAPI.http",
+              "RelativeDocumentMoniker": "TaskManagerAPI.http",
+              "ToolTip": "C:\\Users\\Alejandro\\Desktop\\Prueba Tecnica\\TaskManagerAPI\\TaskManagerAPI.http",
+              "RelativeToolTip": "TaskManagerAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-06T02:38:23.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
